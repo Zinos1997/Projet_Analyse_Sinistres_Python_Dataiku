@@ -1,6 +1,6 @@
 ## 📊 Analyse des Sinistres – Data Analytics Assurance  
 **De la donnée brute à l’aide à la décision métier**
-**Période d'analyse: 2020-2021**
+##Période d'analyse: 2020-2021**
 
 ## 🚀 Contexte & Objectif
 Ce projet vise à analyser les **données de sinistres d’une compagnie d’assurance** afin de mieux comprendre :
